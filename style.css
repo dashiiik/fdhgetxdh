@@ -1,0 +1,28 @@
+header{
+    color: brown;
+    background-color: chartreuse;
+    background-image: linear-gradient(green,white,red);
+}
+h1{
+    text-align: center;
+    padding: 5px
+
+}
+body{
+    background-color: lightgreen;
+
+}
+.yuy{
+    color: brown;
+    background-color: chartreuse;
+    text-align: center;
+    background-image: linear-gradient(green,white,red);
+
+padding: 5px;
+}
+main{                    
+    color: darkorange;
+    background-color: green;
+    border:  double solid limegreen;
+    background-image: linear-gradient(gold,white,gold);
+}
